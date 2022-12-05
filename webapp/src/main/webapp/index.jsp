@@ -1,2 +1,2 @@
-<h1> Welcome to GREENS TECHNOLOGYS - Perumbakkam, Chennai-100 </h1>
-      Monisha, Senior Trainer, Greens Tech etc
+<h1> sample project</h1>
+      tested by indirajith
